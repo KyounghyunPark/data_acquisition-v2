@@ -1,0 +1,38 @@
+{
+  "daejeon": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "hareton",
+    "password": "catherin",
+    "database": "daejeon_local",
+    "charset": "euckr",
+    "schema_type": "accessible_transport"
+  },
+  "daegu": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "hareton",
+    "password": "catherin",
+    "database": "daegu_local",
+    "charset": "euckr",
+    "schema_type": "accessible_transport"
+  },
+  "gwangju": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "hareton",
+    "password": "catherin",
+    "database": "gwangju_local",
+    "charset": "euckr",
+    "schema_type": "accessible_transport"
+  },
+  "hanbit": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "hareton",
+    "password": "catherin",
+    "database": "hanbit_local",
+    "charset": "euckr",
+    "schema_type": "general_call"
+  }
+}
