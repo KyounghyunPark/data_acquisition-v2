@@ -94,7 +94,7 @@ def default_log(message: str) -> None:
 
 
 def ensure_dirs(project_dir: Path) -> None:
-    for name in ("1_data", "2_preprocess_data", "2_grid_data", "3_features", "logs"):
+    for name in ("1_data", "2_preprocess_data", "2_grid_data", "3_features"):
         (project_dir / name).mkdir(parents=True, exist_ok=True)
 
 
